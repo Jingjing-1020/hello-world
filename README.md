@@ -1,2 +1,2 @@
-# My name is KrystaL luo.
+# My name is KrystaL Luo.
 This is my first repository.
